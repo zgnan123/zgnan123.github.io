@@ -3,7 +3,7 @@ layout:     post
 title:      "Hello Carmen"
 subtitle:   " \"Hello Carmen, Hello World\""
 date:       2020-09-17 12:00:00
-author:     "lambda"
+author:     "Hux"
 header-img: "img/post-bg-carmen.jpg"
 catalog: true
 tags:
