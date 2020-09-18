@@ -2,7 +2,7 @@
 layout:     post
 title:      "New Function"
 subtitle:   " \"Speak freely\""
-date:       2020-09-17 12:00:00
+date:       2020-09-18 12:00:00
 author:     "lambda"
 header-img: "img/post-bg-wolves.jpeg"
 catalog: true

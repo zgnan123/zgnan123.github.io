@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "再也没有"
+subtitle:   " \"Just a song\""
+date:       2020-09-18 15:00:00
+author:     "lambda"
+
+catalog: true
+tags:
+    - carmen
+---
+
+<br>
+
+其实歌词大意并不符合我，只不过恰好随机到这里，又恰好听到了几句话。
+
+<br>
+
+每天都没有着存在
+
+不知道要做些什么
+
+曾经的像流沙滑去
+
+点点滴滴我舍不得还你
+
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=480580003&auto=1&height=66"></iframe>
