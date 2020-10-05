@@ -22,7 +22,7 @@ tags:
 
 留下纪念的票据
 
-<img src="/img/in-post/post-jiangziya.jpg" width="300" align=center />
+<img src="/img/in-post/post-jiangziya.jpg" width="300" />
 
 不管你是如何的想法，我今天很开心
 
