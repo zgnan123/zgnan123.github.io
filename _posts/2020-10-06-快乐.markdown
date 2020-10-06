@@ -1,0 +1,35 @@
+---
+layout:     post
+title:      "快乐"
+subtitle:   " \"From Xingtai to Handan\""
+date:       2020-10-06 19:00:00
+author:     "lambda"
+
+catalog: true
+tags:
+    - carmen
+---
+
+此时的我如果有超能力
+
+我会一遍遍复制昨天的快乐
+
+至少我是快乐的
+
+我也希望你是快乐的
+
+---
+
+当然，我没有超能力
+
+但这个也不需要超能力
+
+---
+
+回到北京，努力工作
+
+然后在未来某一天
+
+让快乐加倍 
+
+PS：QSH，mark
