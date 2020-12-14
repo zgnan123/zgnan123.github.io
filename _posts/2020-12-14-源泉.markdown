@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "源泉"
+subtitle:   " \"。。。。。。\""
+date:       2020-12-14 23:59:00
+author:     "lambda"
+
+catalog: true
+tags:
+    - carmen
+---
+
+是的是的，这就是我的力量源泉！
+
+四舍五入，就当在我眼前！
